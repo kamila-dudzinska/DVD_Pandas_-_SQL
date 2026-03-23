@@ -1,0 +1,10 @@
+pandas
+data_loader
+sqlalchemy
+dotenv
+numpy
+openpyxl
+psycopg2-binary
+
+
+
