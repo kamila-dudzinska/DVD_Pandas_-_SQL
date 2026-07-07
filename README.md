@@ -26,9 +26,12 @@ src/
 Output: Plik Excel z zakładkami
 
 Przykładowy kod:
+
 <img width="588" height="572" alt="image" src="https://github.com/user-attachments/assets/43a0f8f3-9229-4248-9ab8-7d3b74a0c101" />
 
+
 Konfiguracja ze zmiennymi środowiskowymi w celu zachowania bezpieczeństwa:
+
 <img width="756" height="330" alt="image" src="https://github.com/user-attachments/assets/7468caf6-5f21-43bb-9fbf-c0a8ed5d9fb1" />
 
 Przykładowe wyniki w IDE:
