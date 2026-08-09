@@ -25,18 +25,31 @@ src/
 
 Output: Plik Excel z zakładkami
 
-Przykładowy kod:
-
-<img width="588" height="572" alt="image" src="https://github.com/user-attachments/assets/43a0f8f3-9229-4248-9ab8-7d3b74a0c101" />
-
 
 Konfiguracja ze zmiennymi środowiskowymi w celu zachowania bezpieczeństwa:
+![konfiguracja](images/config.png)
 
-<img width="756" height="330" alt="image" src="https://github.com/user-attachments/assets/7468caf6-5f21-43bb-9fbf-c0a8ed5d9fb1" />
 
-Przykładowe wyniki w IDE:
-<img width="431" height="152" alt="image" src="https://github.com/user-attachments/assets/7548a7b1-3f3b-4696-b983-a21700cbebc6" />
-<img width="598" height="152" alt="image" src="https://github.com/user-attachments/assets/79a6105a-d22e-4539-90ea-2cee9c47e86a" />
+Funkcje:
+![Segmentacja klientów](images/client_segment.png)
+
+
+![przychód wg lokacji](iages/function1.png)
+
+
+Główny skrypt analizy:
+![main](images/main.png)
+
+<hr style="border:3px solid #AEC6CF;">
+
+###  Kontakt:
+
+
+[![Kamila Dudzińska](https://img.shields.io/badge/Kamila%20Dudzińska-ff69b4?style=for-the-badge)](mailto:kamila.dudzinska@onet.pl)
+[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge)](mailto:kamila.dudzinska@onet.pl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/flagship-web/in/kamila-dudzi%C5%84ska-856bb31b8/)
+
+
 
 
 
