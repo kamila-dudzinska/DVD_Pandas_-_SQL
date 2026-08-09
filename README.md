@@ -33,6 +33,7 @@ Konfiguracja ze zmiennymi środowiskowymi w celu zachowania bezpieczeństwa:
 
 
 Funkcje:
+
 ![Segmentacja klientów](images/client_segment.png)
 
 
