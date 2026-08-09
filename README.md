@@ -30,11 +30,15 @@ Konfiguracja ze zmiennymi środowiskowymi w celu zachowania bezpieczeństwa:
 ![konfiguracja](images/config.png)
 
 
+
+
 Funkcje:
 ![Segmentacja klientów](images/client_segment.png)
 
 
-![przychód wg lokacji](iages/function1.png)
+
+![przychód wg lokacji](images/function1.png)
+
 
 
 Główny skrypt analizy:
