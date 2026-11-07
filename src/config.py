@@ -1,7 +1,12 @@
 """
 Created on Mon Mar 23 19:27:31 2026
+Extended on Sat Nov  7 21:11:37 2026
 
 @author: Kamila Dudzińska
+
+Configuration setting for database connection. 
+The script uses environment variables (.env file) in order to secure the data 
+and mitigate the risk of data leakage. 
 """
 
 #import modułów
@@ -25,7 +30,7 @@ print(os.getenv('DB_HOST'))
 print(os.getcwd())
 
 
-# pobueranie danych z systemu - zmienne srodowiskowe
+# pobieranie danych z systemu - zmienne srodowiskowe
 DB_USER = os.getenv('DB_USER')
 DB_PASSWORD = os.getenv('DB_PASSWORD')
 DB_PORT = os.getenv('DB_PORT', 5432)

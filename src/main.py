@@ -1,17 +1,22 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar 23 19:27:31 2026
+Extended on Sat Nov 7 20:26:14 2026
 
 @author: Kamila Dudzińska
+
+Main pipeline of the DVD Rental ETL project.
+Loads payment data from the Postgre SQL dvd_rental database,
+adds customer segments (low / medium / high) and runs the analysis.
+Results are saved to an Excel report with several sheets.
+
 """
 
 # pipeline
 
 # import modułów
 import pandas as pd
-from data_loader import load_data
-import data_loader
-from config import url_conn1, DB_HOST, DB_PASSWORD, create 
+from config import url_conn1, load_data
 from sqlalchemy import create_engine
 from sql_query import sql_filmy
 from df_analysis import(
@@ -28,7 +33,7 @@ from df_analysis import(
     )
 
 
-# %%
+# MAIN ANALYSIS
 def main():
     df = load_data()
     
