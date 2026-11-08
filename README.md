@@ -23,13 +23,17 @@ src/
 * analysis.py         # logika analizy i funkcje z docstringami
 * main.py             # Główny skrypt sterujący
 
-Output: Plik Excel z zakładkami
+Output: Plik Excel z zakładkami (zaktualizowany 08.11.2026)
+
+
+Aktualizacja (07.11.2026) To był mój pierwszy projekt ETL łączący SQL z Pythonem, dlatego zdecydowałam się tylko na dwie poprawki:
+
+* bezpieczeństwo danych – dane logowania do bazy są w pliku .env (zmienne środowiskowe), a nie w kodzie
+* poprawność danych – zapytanie SQL łączy płatności z filmami przez wypożyczenia (rental), dzięki czemu nie powstaje iloczyn kartezjański i płatności się nie powielają (łączny przychód ok. 61 tys. zamiast 2,1 mln).
 
 
 Konfiguracja ze zmiennymi środowiskowymi w celu zachowania bezpieczeństwa:
-![konfiguracja](images/config.png)
-
-
+![konfiguracja](images/congfig.png)
 
 
 Funkcje:
