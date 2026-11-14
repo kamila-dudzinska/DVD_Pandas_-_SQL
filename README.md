@@ -35,6 +35,8 @@ Aktualizacja (07.11.2026) To był mój pierwszy projekt ETL łączący SQL z Pyt
 Konfiguracja ze zmiennymi środowiskowymi w celu zachowania bezpieczeństwa:
 ![konfiguracja](images/congfig.png)
 
+Główne zapytanie SQL - joins:
+![main](images/sql_query.png)
 
 Funkcje:
 
