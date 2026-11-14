@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.dvd_rental/
 
 # Spyder project settings
 .spyderproject
