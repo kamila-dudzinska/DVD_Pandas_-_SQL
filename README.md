@@ -49,6 +49,10 @@ Funkcje:
 Główny skrypt analizy:
 ![main](images/main.png)
 
+Główny skrypt analizy: - zapis wyników:
+![main](images/main2.png)
+
+
 <hr style="border:3px solid #AEC6CF;">
 
 ###  Kontakt:
